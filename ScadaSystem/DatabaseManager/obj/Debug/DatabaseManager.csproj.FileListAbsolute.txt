@@ -1,0 +1,14 @@
+C:\Users\I\source\repos\ScadaSystem\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+C:\Users\I\source\repos\ScadaSystem\DatabaseManager\bin\Debug\DatabaseManager.exe
+C:\Users\I\source\repos\ScadaSystem\DatabaseManager\bin\Debug\DatabaseManager.pdb
+C:\Users\I\source\repos\ScadaSystem\DatabaseManager\obj\Debug\DatabaseManager.csproj.AssemblyReference.cache
+C:\Users\I\source\repos\ScadaSystem\DatabaseManager\obj\Debug\DatabaseManager.csproj.CoreCompileInputs.cache
+C:\Users\I\source\repos\ScadaSystem\DatabaseManager\obj\Debug\DatabaseManager.exe
+C:\Users\I\source\repos\ScadaSystem\DatabaseManager\obj\Debug\DatabaseManager.pdb
+C:\Users\user\Desktop\ScadaSystem\DatabaseManager\bin\Debug\DatabaseManager.exe.config
+C:\Users\user\Desktop\ScadaSystem\DatabaseManager\bin\Debug\DatabaseManager.exe
+C:\Users\user\Desktop\ScadaSystem\DatabaseManager\bin\Debug\DatabaseManager.pdb
+C:\Users\user\Desktop\ScadaSystem\DatabaseManager\obj\Debug\DatabaseManager.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ScadaSystem\DatabaseManager\obj\Debug\DatabaseManager.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ScadaSystem\DatabaseManager\obj\Debug\DatabaseManager.exe
+C:\Users\user\Desktop\ScadaSystem\DatabaseManager\obj\Debug\DatabaseManager.pdb

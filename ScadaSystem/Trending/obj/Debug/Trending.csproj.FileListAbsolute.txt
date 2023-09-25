@@ -1,0 +1,13 @@
+C:\Users\I\source\repos\ScadaSystem\Trending\bin\Debug\Trending.exe.config
+C:\Users\I\source\repos\ScadaSystem\Trending\bin\Debug\Trending.exe
+C:\Users\I\source\repos\ScadaSystem\Trending\bin\Debug\Trending.pdb
+C:\Users\I\source\repos\ScadaSystem\Trending\obj\Debug\Trending.csproj.CoreCompileInputs.cache
+C:\Users\I\source\repos\ScadaSystem\Trending\obj\Debug\Trending.exe
+C:\Users\I\source\repos\ScadaSystem\Trending\obj\Debug\Trending.pdb
+C:\Users\user\Desktop\ScadaSystem\Trending\bin\Debug\Trending.exe.config
+C:\Users\user\Desktop\ScadaSystem\Trending\bin\Debug\Trending.exe
+C:\Users\user\Desktop\ScadaSystem\Trending\bin\Debug\Trending.pdb
+C:\Users\user\Desktop\ScadaSystem\Trending\obj\Debug\Trending.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ScadaSystem\Trending\obj\Debug\Trending.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ScadaSystem\Trending\obj\Debug\Trending.exe
+C:\Users\user\Desktop\ScadaSystem\Trending\obj\Debug\Trending.pdb

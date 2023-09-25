@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfTag xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Tag xsi:type="AnalogInput">
+    <TagName>1</TagName>
+    <Description>1</Description>
+    <IOAddress>1</IOAddress>
+    <Digital>false</Digital>
+    <Input>true</Input>
+    <ScanTime>4</ScanTime>
+    <OnScan>true</OnScan>
+    <Driver>REAL_TIME_DRIVER</Driver>
+    <Alarms>
+      <Alarm>
+        <Id>1</Id>
+        <Type>low</Type>
+        <Priority>1</Priority>
+        <Key_value>15</Key_value>
+      </Alarm>
+      <Alarm>
+        <Id>2</Id>
+        <Type>low</Type>
+        <Priority>3</Priority>
+        <Key_value>20</Key_value>
+      </Alarm>
+      <Alarm>
+        <Id>4</Id>
+        <Type>high</Type>
+        <Priority>3</Priority>
+        <Key_value>20</Key_value>
+      </Alarm>
+    </Alarms>
+    <LowLimit>4</LowLimit>
+    <HighLimit>1</HighLimit>
+  </Tag>
+  <Tag xsi:type="AnalogOutput">
+    <TagName>2</TagName>
+    <Description>2</Description>
+    <IOAddress>2</IOAddress>
+    <Digital>false</Digital>
+    <Input>false</Input>
+    <InitialValue>2</InitialValue>
+    <LowLimit>1</LowLimit>
+    <HighLimit>9</HighLimit>
+  </Tag>
+  <Tag xsi:type="DigitalInput">
+    <TagName>7</TagName>
+    <Description>7</Description>
+    <IOAddress>S</IOAddress>
+    <Digital>true</Digital>
+    <Input>true</Input>
+    <ScanTime>3</ScanTime>
+    <OnScan>true</OnScan>
+    <Driver>SIMULATION_DRIVER</Driver>
+  </Tag>
+</ArrayOfTag>

@@ -1,0 +1,14 @@
+C:\Users\I\source\repos\ScadaSystem\ReportManager\bin\Debug\ReportManager.exe.config
+C:\Users\I\source\repos\ScadaSystem\ReportManager\bin\Debug\ReportManager.exe
+C:\Users\I\source\repos\ScadaSystem\ReportManager\bin\Debug\ReportManager.pdb
+C:\Users\I\source\repos\ScadaSystem\ReportManager\obj\Debug\ReportManager.csproj.CoreCompileInputs.cache
+C:\Users\I\source\repos\ScadaSystem\ReportManager\obj\Debug\ReportManager.exe
+C:\Users\I\source\repos\ScadaSystem\ReportManager\obj\Debug\ReportManager.pdb
+C:\Users\I\source\repos\ScadaSystem\ReportManager\obj\Debug\ReportManager.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ScadaSystem\ReportManager\bin\Debug\ReportManager.exe.config
+C:\Users\user\Desktop\ScadaSystem\ReportManager\bin\Debug\ReportManager.exe
+C:\Users\user\Desktop\ScadaSystem\ReportManager\bin\Debug\ReportManager.pdb
+C:\Users\user\Desktop\ScadaSystem\ReportManager\obj\Debug\ReportManager.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ScadaSystem\ReportManager\obj\Debug\ReportManager.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ScadaSystem\ReportManager\obj\Debug\ReportManager.exe
+C:\Users\user\Desktop\ScadaSystem\ReportManager\obj\Debug\ReportManager.pdb

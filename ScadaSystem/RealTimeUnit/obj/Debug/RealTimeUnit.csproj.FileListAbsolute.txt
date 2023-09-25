@@ -1,0 +1,14 @@
+C:\Users\I\source\repos\ScadaSystem\RealTimeUnit\bin\Debug\RealTimeUnit.exe.config
+C:\Users\I\source\repos\ScadaSystem\RealTimeUnit\bin\Debug\RealTimeUnit.exe
+C:\Users\I\source\repos\ScadaSystem\RealTimeUnit\bin\Debug\RealTimeUnit.pdb
+C:\Users\I\source\repos\ScadaSystem\RealTimeUnit\obj\Debug\RealTimeUnit.csproj.CoreCompileInputs.cache
+C:\Users\I\source\repos\ScadaSystem\RealTimeUnit\obj\Debug\RealTimeUnit.exe
+C:\Users\I\source\repos\ScadaSystem\RealTimeUnit\obj\Debug\RealTimeUnit.pdb
+C:\Users\I\source\repos\ScadaSystem\RealTimeUnit\obj\Debug\RealTimeUnit.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ScadaSystem\RealTimeUnit\bin\Debug\RealTimeUnit.exe.config
+C:\Users\user\Desktop\ScadaSystem\RealTimeUnit\bin\Debug\RealTimeUnit.exe
+C:\Users\user\Desktop\ScadaSystem\RealTimeUnit\bin\Debug\RealTimeUnit.pdb
+C:\Users\user\Desktop\ScadaSystem\RealTimeUnit\obj\Debug\RealTimeUnit.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ScadaSystem\RealTimeUnit\obj\Debug\RealTimeUnit.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ScadaSystem\RealTimeUnit\obj\Debug\RealTimeUnit.exe
+C:\Users\user\Desktop\ScadaSystem\RealTimeUnit\obj\Debug\RealTimeUnit.pdb

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="aadfb469-df90-4daa-b023-6f1349ab6266" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:4000/ScadaSystem/ReportManager/mex" Protocol="mex" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="service.wsdl" MetadataType="Wsdl" ID="0689cd05-3af3-4bd4-84cb-bf45f00ef9f0" SourceId="1" SourceUrl="http://localhost:4000/ScadaSystem/ReportManager/mex" />
+    <MetadataFile FileName="service.xsd" MetadataType="Schema" ID="a80b9d6e-25ca-472e-9a18-11a2c6e19d3b" SourceId="1" SourceUrl="http://localhost:4000/ScadaSystem/ReportManager/mex" />
+    <MetadataFile FileName="service1.xsd" MetadataType="Schema" ID="a114962b-3b5a-4686-90cc-8b41cf47ce38" SourceId="1" SourceUrl="http://localhost:4000/ScadaSystem/ReportManager/mex" />
+    <MetadataFile FileName="ScadaSystem.xsd" MetadataType="Schema" ID="0f3e6770-470c-44aa-8037-4677c1bf486a" SourceId="1" SourceUrl="http://localhost:4000/ScadaSystem/ReportManager/mex" />
+    <MetadataFile FileName="Arrays.xsd" MetadataType="Schema" ID="d20ccd3a-14c8-4856-a63e-875378cdc857" SourceId="1" SourceUrl="http://localhost:4000/ScadaSystem/ReportManager/mex" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

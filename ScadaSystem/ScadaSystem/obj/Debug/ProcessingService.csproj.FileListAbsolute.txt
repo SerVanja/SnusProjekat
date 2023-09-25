@@ -1,0 +1,7 @@
+C:\Users\I\source\repos\ScadaSystem\ScadaSystem\bin\Debug\ScadaSystem.exe.config
+C:\Users\I\source\repos\ScadaSystem\ScadaSystem\bin\Debug\ScadaSystem.exe
+C:\Users\I\source\repos\ScadaSystem\ScadaSystem\bin\Debug\ScadaSystem.pdb
+C:\Users\I\source\repos\ScadaSystem\ScadaSystem\obj\Debug\ProcessingService.csproj.AssemblyReference.cache
+C:\Users\I\source\repos\ScadaSystem\ScadaSystem\obj\Debug\ProcessingService.csproj.CoreCompileInputs.cache
+C:\Users\I\source\repos\ScadaSystem\ScadaSystem\obj\Debug\ScadaSystem.exe
+C:\Users\I\source\repos\ScadaSystem\ScadaSystem\obj\Debug\ScadaSystem.pdb

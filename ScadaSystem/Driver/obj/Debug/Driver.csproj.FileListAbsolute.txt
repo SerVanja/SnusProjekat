@@ -1,0 +1,12 @@
+C:\Users\I\source\repos\ScadaSystem\Driver\bin\Debug\Driver.dll
+C:\Users\I\source\repos\ScadaSystem\Driver\bin\Debug\Driver.pdb
+C:\Users\I\source\repos\ScadaSystem\Driver\obj\Debug\Driver.csproj.CoreCompileInputs.cache
+C:\Users\I\source\repos\ScadaSystem\Driver\obj\Debug\Driver.dll
+C:\Users\I\source\repos\ScadaSystem\Driver\obj\Debug\Driver.pdb
+C:\Users\I\source\repos\ScadaSystem\Driver\obj\Debug\Driver.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ScadaSystem\Driver\bin\Debug\Driver.dll
+C:\Users\user\Desktop\ScadaSystem\Driver\bin\Debug\Driver.pdb
+C:\Users\user\Desktop\ScadaSystem\Driver\obj\Debug\Driver.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ScadaSystem\Driver\obj\Debug\Driver.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ScadaSystem\Driver\obj\Debug\Driver.dll
+C:\Users\user\Desktop\ScadaSystem\Driver\obj\Debug\Driver.pdb
